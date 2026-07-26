@@ -1,0 +1,6 @@
+High defense but slow Stamina recovery.
+Defense bonus when Stamina is maxed. Stats differ by gender.
+
+Males have high health and don't take much damage until they are low in stamina.
+
+Females have less health, but have a shorter break duration which helps them avoid critical attacks.

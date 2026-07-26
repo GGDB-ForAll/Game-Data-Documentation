@@ -1,0 +1,11 @@
+Namekian Awakening!
+
+Difficulty: ✭✭✭✭✭✭✭✰
+
+Time Limit: 15'00
+
+Win Conditions: Defeat Piccolo and Nail
+
+Lose Conditions: Player HP depleted, Time expires
+
+Enemies: Piccolo, Nail

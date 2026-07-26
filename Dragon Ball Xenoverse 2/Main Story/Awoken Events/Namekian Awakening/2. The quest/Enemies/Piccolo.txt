@@ -1,0 +1,21 @@
+Level: LV.036
+
+Name: Piccolo
+
+Max HP: 014045
+
+Max KI: 558
+
+Super Attack 1: Evil Flight Strike
+
+Super Attack 2: Evil Explosion
+
+Super Attack 3: Light Grenade
+
+Super Attack 4: Full Power Charge
+
+Ultimate Attack 1: Hellzone Grenade
+
+Ultimate Attack 2: Special Beam Cannon
+
+Evasive: Special Beam Blast

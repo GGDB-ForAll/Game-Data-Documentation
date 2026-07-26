@@ -1,0 +1,3 @@
+This race can overpower enemies with their fast movement, but they have low health.
+
+Their stamina recovers while attacking and their movement speed increases as their health lowers.

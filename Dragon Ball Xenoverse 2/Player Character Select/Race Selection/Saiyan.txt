@@ -1,0 +1,6 @@
+A warrior tribe that has low health but high attack power.
+Attack power rises when health is low, and all stats rise after reviving.
+
+Males have stronger melee attacks and buffs last longer, but super moves aren't as strong.
+
+Females can use Z Assists more frequently. They have better Ki and Stamina recovery, but lower health.

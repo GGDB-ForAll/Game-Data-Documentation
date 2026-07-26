@@ -1,0 +1,6 @@
+Balanced stats for both offense and defense.
+Ki refills automatically and attack rises when maxed.
+
+Males have stronger Strike Super Attacks.
+
+Females have stronger Ki Blast Super Attacks.

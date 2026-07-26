@@ -1,0 +1,21 @@
+Level: LV.034
+
+Name: Nail
+
+Max HP: 014866
+
+Max KI: 539
+
+Super Attack 1: Evil Flight Strike
+
+Super Attack 2: Namek Finger
+
+Super Attack 3: Do or Die
+
+Super Attack 4: Full Power Charge
+
+Ultimate Attack 1: Full Power Energy Wave
+
+Ultimate Attack 2: Mystic Flash
+
+Evasive: Super Explosive Wave

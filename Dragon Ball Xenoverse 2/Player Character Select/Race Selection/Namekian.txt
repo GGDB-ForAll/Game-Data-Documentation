@@ -1,0 +1,3 @@
+Low attack, but high health and Stamina refills quickly.
+
+Items are more effective than other races and health is regenerated when low.
