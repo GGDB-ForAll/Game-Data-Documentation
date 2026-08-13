@@ -1,0 +1,2 @@
+Causes opponents to start the
+battle with a total of 50% damage.

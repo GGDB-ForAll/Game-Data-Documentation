@@ -1,0 +1,3 @@
+If a primary spirit has an
+open slot, you can attach
+a support spirit to it.

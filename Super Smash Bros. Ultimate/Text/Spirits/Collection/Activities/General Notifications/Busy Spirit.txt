@@ -1,0 +1,2 @@
+You cannot select a spirit that
+is already in an activity.

@@ -1,0 +1,3 @@
+If your shot is blocked by the shield, the shield
+will be damaged. This damage will carry over
+the next time you're trying to free that spirit!

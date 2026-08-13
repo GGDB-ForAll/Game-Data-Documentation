@@ -1,0 +1,5 @@
+Power: 4050
+
+Offense: 2430
+
+Defense: 1620

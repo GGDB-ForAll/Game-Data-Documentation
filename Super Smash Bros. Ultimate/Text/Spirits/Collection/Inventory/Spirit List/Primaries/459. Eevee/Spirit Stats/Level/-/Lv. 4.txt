@@ -1,0 +1,5 @@
+Power: 843
+
+Offense: 506
+
+Defense: 337

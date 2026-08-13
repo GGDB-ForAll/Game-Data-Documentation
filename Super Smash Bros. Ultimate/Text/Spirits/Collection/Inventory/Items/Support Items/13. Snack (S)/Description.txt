@@ -1,0 +1,1 @@
+Increases a spirit's level by a little bit.
